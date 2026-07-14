@@ -88,17 +88,6 @@ Atualmente cursando **Ciência de Dados na UNIVESP**, com foco em transformar da
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leticiaov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiaov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
-</div>
-
-> *Estatísticas atualizadas automaticamente via [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
-
----
-
 ## 💬 Vamos Conversar?
 
 Estou aberta a:
